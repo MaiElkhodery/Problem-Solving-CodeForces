@@ -9,5 +9,5 @@ Title | Solution
 [A. Spell Check](https://codeforces.com/problemset/problem/1722/A) | [Spell Check](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/Spell%20Check.java)
 [I. Split the Number](https://codeforces.com/gym/101810/problem/I) | [Split the Number](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/SplitNumber.java)
 [C. Different Differences](https://codeforces.com/problemset/problem/1772/C) | [Different Differences](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/DifferentDifferences.java)
-[A. Watermelon](https://codeforces.com/problemset/problem/4/A) | [A. Watermelon](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/Watermelon.java)
+[A. Watermelon](https://codeforces.com/problemset/problem/4/A) | [Watermelon](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/Watermelon.java)
 [A. Mike and palindrome](https://codeforces.com/problemset/problem/798/A) | [Mike and palindrome](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/MikeAndpalindrome.java)
