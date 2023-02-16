@@ -8,4 +8,6 @@ Title | Solution
 [B. Robots](https://codeforces.com/problemset/problem/1680/B) | [Robots](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/Robots.java)
 [A. Spell Check](https://codeforces.com/problemset/problem/1722/A) | [Spell Check](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/Spell%20Check.java)
 [I. Split the Number](https://codeforces.com/gym/101810/problem/I) | [Split the Number](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/SplitNumber.java)
-[C. Different Differences](https://codeforces.com/problemset/problem/1772/C) | mm
+[C. Different Differences](https://codeforces.com/problemset/problem/1772/C) | [Different Differences](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/DifferentDifferences.java)
+[A. Watermelon](https://codeforces.com/problemset/problem/4/A) | [A. Watermelon](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/Watermelon.java)
+[A. Mike and palindrome](https://codeforces.com/problemset/problem/798/A) | [Mike and palindrome](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/MikeAndpalindrome.java)
