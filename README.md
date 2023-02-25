@@ -11,3 +11,4 @@ Title | Solution
 [C. Different Differences](https://codeforces.com/problemset/problem/1772/C) | [Different Differences](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/DifferentDifferences.java)
 [A. Watermelon](https://codeforces.com/problemset/problem/4/A) | [Watermelon](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/Watermelon.java)
 [A. Mike and palindrome](https://codeforces.com/problemset/problem/798/A) | [Mike and palindrome](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/MikeAndpalindrome.java)
+[A. Long Comparison](https://codeforces.com/problemset/problem/1613/A) | [Long Comparison](https://github.com/MaiElkhodery/Problem-Solving-CodeForces/blob/main/CodeForces/LongComparison.java)
